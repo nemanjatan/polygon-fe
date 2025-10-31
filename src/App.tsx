@@ -28,7 +28,6 @@ export default function App() {
     <div className="container">
       <div className="header">
         <h1>Polygon Export Demo</h1>
-        <div className="subtle">Simple FE over your backend</div>
       </div>
 
       <NycClock />
